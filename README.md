@@ -1,6 +1,6 @@
 # RayTracingInAWeekend  
 
-Screwing around with this repo: git@github.com:thomasFurge/RayTracingInAWeekend.git  
+Screwing around with this repo: https://github.com/petershirley/raytracinginoneweekend  
 Using CLion 2020.1  
 
 ### How to use this repo
